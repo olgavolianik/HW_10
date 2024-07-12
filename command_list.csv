@@ -1,0 +1,142 @@
+    1  man ls
+    2  dir
+    3  mam ls
+    4  help dir
+    5  pwd
+    6  mkdir lesson
+    7  mkdir lesson 3
+    8  touch empty.txt
+    9  clear
+   10  touch 2empty.txt
+   11  pwd
+   12  cd users
+   13  pwd
+   14  clear
+   15  vim empty
+   16  cd Git
+   17  cd GIT
+   18  help dir
+   19  man ls
+   20  mun ls
+   21  clean
+   22  cleane
+   23  mane ls
+   24  mane ls
+   25  name ls
+   26  man ls
+   27  ls
+   28  clear
+   29  ls
+   30  cd documents
+   31  cd Desctop
+   32  clear
+   33  cd~
+   34  cd ~
+   35  clear
+   36  cd/
+   37  cd /
+   38  brew install git
+   39  cd ~/Desktop/GIT
+   40  cd ~/Робочий\ стіл/GIT
+   41  cd ~/Desktop/GIT
+   42  cd ~/Робочий\ стіл/GIT
+   43  cd /c/Users/Admin/Desktop/GIT
+   44  cd /c/Users/Admin/Desktop/GIT
+   45  cd /c/Users/Admin/Робочий\ стіл/GIT
+   46  CLEAR
+   47  cd /c/Users/Admin/OneDrive/Робочий\ стіл/GIT
+   48  git config --global user.name "volianik olga"
+   49  git config --global user.email "olgavoluanuk@gmail.com
+   50  cd..
+   51  cd ..
+   52  clear
+   53  clear
+   54  git commit -m "Додано нові файли до репозиторію"
+   55  pwd
+   56  cd OneDrive/Робочий стіл/GIT/HW_10
+   57  $ cd OneDrive/Робочий стіл/GIT/HW_10
+   58  bash: cd: too many arguments
+   59  Admin@DESKTOP-A7DGRKA MINGW64 ~ (master)
+   60  cd /c/Users/Admin/OneDrive/Робочий\ стіл/GIT/HW_10
+   61  nano develop_test.txt
+   62  vi develop_test.txt
+   63  pwd
+   64  cd /c/Users/Admin/OneDrive/Робочий\ стіл/GIT/HW_10
+   65  notepad develop_test.txt
+   66  git add develop_test.txt
+   67  git commit -m "Додано текст до develop_test.txt"
+   68  git add develop_test.txt
+   69  git commit -m "Додано текст до develop_test.txt"
+   70  git add .
+   71  git commit -m "Додано текст до develop_test.txt"
+   72  git reset HEAD .develop_test.txt.swp
+   73  git commit -m "Додано текст до develop_test.txt"
+   74  git rm .develop_test.txt.swp
+   75  git commit -m "Видалено .develop_test.txt.swp"
+   76  notepad develop_test.txt
+   77  git status
+   78  git status
+   79  vi develop_test.txt
+   80  git branch
+   81  git status
+   82  # Видалення непотрібного файлу
+   83  git rm .develop_test.txt.swp
+   84  # Зроблення коміту для видалення файлу
+   85  git commit -m "Видалено непотрібний файл .develop_test.txt.swp"
+   86  git commit -m "Видалено непотрібний файл .develop_test.txt.swp"
+   87  git commit -m "Видалено непотрібний файл .develop_test.txt.swp"
+   88  git add .develop_test.txt.swp
+   89  git commit -m "Видалено непотрібний файл .develop_test.txt.swp"
+   90  git rm .develop_test.txt.swp
+   91  git commit -m "Видалено непотрібний файл .develop_test.txt.swp"
+   92  git status
+   93  git add develop_test.txt
+   94  git commit -m "Зміни у develop_test.txt"
+   95  git add develop_test.txt
+   96  git commit -m "Зміни у develop_test.txt"
+   97  clear
+   98  # Перевірка статусу
+   99  git status
+  100  # Перевірка вмісту файлу develop_test.txt (якщо потрібно)
+  101  cat develop_test.txt
+  102  clear
+  103  git branch --list develop
+  104  git status
+  105  git status
+  106  git show develop_test.txt
+  107  git show develop_test.txt
+  108  clear
+  109  Admin@DESKTOP-A7DGRKA MINGW64 ~/OneDrive/Робочий стіл/GIT/HW_10 (develop)
+  110  $
+  111  clear 
+  112  git show develop_test.txt
+  113  git status
+  114  ls develop_test.txt
+  115  git remote -v
+  116  git status
+  117  git branch
+  118  ls develop_test.txt
+  119  git status
+  120  git add .
+  121  git add .
+  122  git commit -m "Зміни, пов'язані з файлом develop_test.txt"
+  123  git status
+  124  git add .
+  125  git commit -m "Додає файл develop_test.txt у гілці develop"
+  126  git status
+  127  git add .
+  128  git commit -m "Додає файли і робить зміни у гілці develop"
+  129  git status
+  130  git add .
+  131  git commit -m "Додано зміни до файлів у гілці develop"
+  132  git status
+  133  cd ~/Desktop/GIT/HW_10
+  134  pwd
+  135  echo someText > develop_test.txt
+  136  Admin@DESKTOP-A7DGRKA
+  137  git add .
+  138  git commit -m "Внесені зміни у файл develop_test.txt"
+  139  git checkout main
+  140  git merge develop
+  141  git log
+  142  history > command_list.csv
